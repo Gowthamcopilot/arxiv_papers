@@ -1,7 +1,7 @@
 # arxiv_papers
 # 🧠 arXiv Dataset Collector (Metadata + PDFs)
 
-This project collects and organizes metadata and full-text PDFs from [arXiv.org](https://arxiv.org), focusing on research publications across fields like Computer Science, Quantitative Finance. It uses the official arXiv API and direct PDF links to build a structured dataset for analysis, ML training, or exploration.
+This project collects and organizes metadata and full-text PDF links from [arXiv.org](https://arxiv.org), focusing on research publications across fields like Computer Science, Quantitative Finance. It uses the official arXiv API and direct PDF links to build a structured dataset for analysis, ML training, or exploration.
 
 ---
 
