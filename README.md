@@ -7,17 +7,17 @@ This project collects and organizes metadata and full-text PDFs from [arXiv.org]
 
 ## 📁 Contents
 
-- `metadata_collector.ipynb`  
+- `pdf_collection_ code.ipynb`  
   → Jupyter Notebook to collect metadata from the arXiv API using search queries and save it to a CSV file.
 
-- `pdf_downloader_batch.ipynb`  
+- `paper_metadata_ collection.ipynb`  
   → Notebook that reads the metadata CSV, downloads PDFs in batches, and marks progress in the file.
 
-- `metadata.csv`  
-  → CSV file containing structured metadata for arXiv papers (title, abstract, id, categories, date, etc.).
+- `q_finance_arxiv.csv`  
+  → CSV file containing structured metadata for arXiv papers (title, abstract, id, categories, date, etc.) in feild of quantitative finance.
 
-- `pdf_links_scraped.csv`  
-  → Same metadata CSV with additional fields like direct PDF links and a boolean `is_scraped` column to track download status.
+- `axive_cs_metadata.csv`  
+  → file containing structured metadata for arXiv papers (title, abstract, id, categories, date, etc.) in feild of computer science.
 
 ---
 
@@ -49,7 +49,7 @@ This project is released under the **[CC0 1.0 Universal (Public Domain Dedicatio
 
 ## 🙋‍♂️ Credits
 
-- Author: *[Your Name or GitHub handle]*
+- Author: *G Gowtham*
 - Data source: [arXiv.org](https://arxiv.org)
 
 ---
