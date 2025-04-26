@@ -18,6 +18,7 @@ This project collects and organizes metadata and full-text PDF links from [arXiv
 
 - `axive_cs_metadata.csv`  
   → file containing structured metadata for arXiv papers (title, abstract, id, categories, date, etc.) in feild of computer science.
+  Link: [huggingface](https://huggingface.co/datasets/gowthamgoli/arxive_papers)
 
 ---
 
