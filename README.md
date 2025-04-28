@@ -13,7 +13,7 @@ This project collects and organizes metadata and full-text PDF links from [arXiv
 - `paper_metadata_ collection.ipynb`  
   → Notebook that reads the metadata CSV, downloads PDFs in batches, and marks progress in the file.
 
-- `q_finance_arxiv.csv`  
+- `q_fin_arxiv.csv`  
   → CSV file containing structured metadata for arXiv papers (title, abstract, id, categories, date, etc.) in feild of quantitative finance.
 
 - `axive_cs_metadata.csv`  
